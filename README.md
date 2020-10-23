@@ -13,3 +13,5 @@ For this project I created a weather dashboard that runs in the browser and feat
 * CSS3
     * Bootstrap
 * JavaScript
+* JQuery
+* OpenWeather API
