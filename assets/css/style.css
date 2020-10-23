@@ -1,0 +1,22 @@
+/* Font for page */
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Navbar */
+#navtext {
+    font-size: 40px;
+}
+
+.forecast5style {
+    font-size: 12px;
+}
+
+/* Hide and Display */
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
