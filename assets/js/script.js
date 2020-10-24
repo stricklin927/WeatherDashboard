@@ -27,7 +27,7 @@ $("#searchBtn").on("click", function() {
   // Call API with key from Open Weather
   const queryUrl = "https://api.openweathermap.org/data/2.5/weather?q=" + city + apiKey;
 
-  // AJAX
+
   $.ajax({
     url: queryUrl,
     method: "GET"
