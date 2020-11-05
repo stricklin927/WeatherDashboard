@@ -4,6 +4,7 @@ let city = $("#searchCity").val();
 // API Key
 const apiKey = "&appid=492e453ab6ca26e928bfbb3e9d824cbd";
 
+
 let date = new Date();
 
 $("#searchCity").keypress(function(event) { 

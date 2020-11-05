@@ -6,7 +6,8 @@ For this project I created a weather dashboard that runs in the browser and feat
 [Click here](https://stricklin927.github.io/WeatherDashboard/) to view this project.
 
 ## App Demo
-![Screenshot](/assets/images/weatherdashscreenshot.png)
+![Screenshot1](/assets/images/screenshot1.png)
+![Screenshot2](/assets/images/screenshot2.png)
 
 ## Built with
 * HTML5
