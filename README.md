@@ -6,7 +6,10 @@ For this project I created a weather dashboard that runs in the browser and feat
 [Click here](https://stricklin927.github.io/WeatherDashboard/) to view this project.
 
 ## App Demo
+### Input City name into the search bar.
 ![Screenshot1](/assets/images/screenshot1.png)
+
+### Search results populate with current weather forecast and 5-Day forecast.
 ![Screenshot2](/assets/images/screenshot2.png)
 
 ## Built with
